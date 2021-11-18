@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Yashu
 - 👀 I’m interested in back-end techs
 - 🌱 I’m currently working on AI chatbots
+- 🌱 Coding is <3
